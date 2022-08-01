@@ -1,4 +1,6 @@
+def hello_world(name):
+    print('Hello: ' + name);
 
-def hello_world(str: name){
-  print('Hello ' + name);
-}
+
+
+hello_world('Laye');
