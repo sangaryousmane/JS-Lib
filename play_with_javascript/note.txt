@@ -1,0 +1,7 @@
+Space Complexity measures memory usage of a specific program. 
+
+# What makes space complexity increase?
+
+a. Assigning variables
+b. Creating new data structures
+c. Function calling and allocation 
