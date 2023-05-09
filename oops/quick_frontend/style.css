@@ -1,0 +1,27 @@
+
+/* Css media queries with small screens*/
+@media only screen and (max-width: 600px){
+    body{
+        font-size: 14px;
+    }
+
+    header{
+        height: 100px;
+    }
+
+    .nav{
+        display: none;
+    }
+
+    main{
+        width: 100%;
+    }
+}
+
+/* Media queries for large screens */
+@media only screen and (max-width: 601px){
+
+    body{
+        font-size: 26px;
+    }
+}

@@ -10,6 +10,8 @@
   "author": "Ousmane Sangary",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^5.2.0"
+    "axios": "^1.3.4",
+    "chalk": "^5.2.0",
+    "gulp": "^4.0.2"
   }
 }
