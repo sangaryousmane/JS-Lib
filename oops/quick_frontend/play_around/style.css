@@ -24,4 +24,17 @@
     body{
         font-size: 26px;
     }
+
+    header{
+        height: 150px;
+    }
+
+    .nav{
+        display: block;
+    }
+
+    main{
+        width: 100%;
+    }
+
 }
